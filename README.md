@@ -8,5 +8,4 @@
 - **Java:** Spring Boot, Spring Cloud
 - **C#:** ASP.NET Core, Entity Framework Core, WPF
 - **Dart:** Flutter
-- **JavaScript**
 - **Databases:** PostgreSQL, SQL Server, SQLite
